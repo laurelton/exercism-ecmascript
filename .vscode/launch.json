@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/pascals-triangle\\pascals-triangle.js"
+      "program": "${workspaceFolder}/secret-handshake\\secret-handshake.js"
     }
   ]
 }
