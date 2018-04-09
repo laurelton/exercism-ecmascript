@@ -1,3 +1,6 @@
+.eslintrc.json
+.vscode/settings.json
+accumulate/node_modules/
 leap/node_modules/
 rna-transcription/node_modules/
 pascals-triangle/node_modules/
@@ -5,4 +8,3 @@ matrix/node_modules/
 secret-handshake/node_modules/
 pascals-triangle/scrap.js
 robot-name/node_modules/
-.eslintrc.json
