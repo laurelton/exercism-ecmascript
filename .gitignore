@@ -1,3 +1,11 @@
+.vscode/
+complex-numbers/node_modules/
+house/node_modules/
+nucleotide-count/node_modules/
+react/node_modules/
+spiral-matrix/node_modules/
+strain/node_modules/
+word-search/node_modules/
 bowling/node_modules/
 hello-world/node_modules/
 leap/node_modules/
